@@ -8,6 +8,13 @@ body {
     --color1: #FFF ;
 }
 
+ul {
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+
 .nav-bar {
     width: 100%;
     display: flex;
